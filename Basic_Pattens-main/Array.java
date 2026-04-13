@@ -6,7 +6,7 @@ public class Array{
 
         for (int i = 0; i < arr.length; i++) {
             sum = sum + arr[i];
-        } // Loop ends here
+        } // Loop ends  here
 
         // This must be inside the main method braces
         System.out.print(sum);
