@@ -24,6 +24,6 @@ public class ReverseNum {
           this removes the last digit and swap the number
            */
       }
-      System.out.println(reversed);
+      System.out.println("The reversed number " + reversed);
     }
 }

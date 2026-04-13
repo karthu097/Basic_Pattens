@@ -13,6 +13,6 @@ and another one throught formula same as below  one
  */
         int sum =n*(n+1)/2;
 
-        System.out.println("Sum="+sum);
+        System.out.println("Sum of the n numbers ="+sum);
     }
 }
