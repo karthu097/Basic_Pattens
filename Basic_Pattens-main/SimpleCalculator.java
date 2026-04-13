@@ -16,7 +16,7 @@ public class SimpleCalculator {
         //GET the operation
         System.out.println("Choose operations :");
         System.out.println("1.Add");
-        System.out.println("2.Sub");
+        System.out.println("2.Sub"); // a simple calculater
         System.out.println("3.Multiply");
         System.out.println("4.modulus");
         System.out.println("5 divide:");
