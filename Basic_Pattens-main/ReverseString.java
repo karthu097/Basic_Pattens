@@ -4,7 +4,7 @@ public class ReverseString {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter String : ");
         String orginal = sc.nextLine();
-        String reversed = "";
+        String reversed = ""; // here you not needed any spaces just you need a number to reverse
         for (int i = orginal.length() - 1; i >= 0; i--) {
             reversed = reversed + orginal.charAt(i);
         }
