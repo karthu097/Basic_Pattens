@@ -9,7 +9,7 @@ one is throught the looping
 for(int i =1;i<=n;i++){
 sum = sum + i;
 }
-and another one throught formula same as below  one
+and another one throught formula same as below  one//
  */
         int sum =n*(n+1)/2;
 
