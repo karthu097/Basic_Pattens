@@ -5,8 +5,8 @@ public class Secound_largest {
         int secound_small = Integer.MAX_VALUE;
         for(int i=1;i<arr.length;i++){
             if(arr[i]<Small){
-                secound_small = Small ;
-                Small= arr[i];
+                secound_small = Small ;//secound_small in this variable the small is get stored
+                Small= arr[i]; // the small variable fix's the small
             }else if(arr[i]<secound_small){
                 secound_small = arr[i];
             }
