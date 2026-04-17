@@ -11,5 +11,5 @@ public class EvenOrOdd {
         }else{
             System.out.println("odd");
         }
-    }
+    }//printing even or odd
 }
