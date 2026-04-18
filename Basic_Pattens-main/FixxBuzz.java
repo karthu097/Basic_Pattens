@@ -10,6 +10,6 @@ public class FixxBuzz {
             }else{
                 System.out.println(i);
             }
-        }
+        }//
     }
 }
