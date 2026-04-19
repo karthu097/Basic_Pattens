@@ -55,4 +55,12 @@ public class Anagrams{
             System.out.println("Not Anagram ❌");
         }
     }
-}
+} /*String basics — charAt, length🌟🌟🌟 Strong
+Loop through String🌟🌟🌟 Strong
+Reverse a String🌟🌟🌟 Strong
+Palindrome check🌟🌟🌟 Strong
+Count vowels/consonants🌟🌟🌟 Strong
+Count uppercase/lowercase🌟🌟🌟 Strong
+First non-repeated character🌟🌟 Growing
+Anagram check🌟🌟🌟 Strong*/
+
