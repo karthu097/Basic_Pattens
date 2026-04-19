@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ReverseString{
+public class palindrome{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a string: ");
@@ -23,14 +23,14 @@ public class ReverseString{
 
              */
         }
-            System.out.println(reversed);
-            if(reversed.equals(original)){
+        System.out.println(reversed);
+        if(reversed.equals(original)){
                 /* here we are using .equals() to compare the string
                 instred of == for comparing the string .equals()work accuractely
                  */
-                System.out.println("palindrome");
-            }else{
-                System.out.println("not a palindrome ");
-            }
+            System.out.println("palindrome");
+        }else{
+            System.out.println("not a palindrome ");
         }
     }
+}
