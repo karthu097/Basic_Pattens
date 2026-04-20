@@ -7,7 +7,7 @@ public class FindDuplicate {
             if(seen.contains(n)) {
                 System.out.println("Duplicate found :" + n);
             }
-            seen.add(n);
+            seen.add(n);//finding the duplicate using hash map
         }
     }
 }
