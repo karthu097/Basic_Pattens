@@ -8,7 +8,6 @@ public class Missingnumber {
         int actualSum =0;
         for(int num : nums){
             actualSum += num;
-
         }return expectedSum - actualSum;
 
     }
