@@ -8,7 +8,8 @@ public class FindMin_Avg {
             if(arr[i]<min){
                 min = arr[i];
             }
-            count++;//double avg = sum / arr.length; here no need to write count you can write directly array length
+            count++;//double avg = sum / arr.length;
+            // here no need to write count you can write directly array length
             sum = sum + arr[i];
 
         }
