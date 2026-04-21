@@ -27,4 +27,4 @@ public class LinearScan {
             System.out.println("false");
         }
     }
-}
+}// this was a linear scan problem where it scans the arreay uing the index
