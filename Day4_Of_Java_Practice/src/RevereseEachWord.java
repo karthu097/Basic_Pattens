@@ -12,4 +12,17 @@ public class RevereseEachWord {
             System.out.print(reversed+" ");
         }
     }
+    /*
+     Real World Connection
+java// Real backend — processing user search query
+String query = "java spring boot tutorial";
+String[] keywords = query.split(" ");
+for(int i = 0; i < keywords.length; i++){
+    searchDatabase(keywords[i]); // search each keyword!
+}
+
+     */
+
+
+
 }
