@@ -23,4 +23,4 @@ public class Prime {
           System.out.println(n +" Is not Prime");
       }
   }
-}
+}// checking prime
