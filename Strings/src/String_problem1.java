@@ -5,4 +5,4 @@ public class String_problem1{
             System.out.println(str.charAt(i));
         }
     }
-}
+}//
