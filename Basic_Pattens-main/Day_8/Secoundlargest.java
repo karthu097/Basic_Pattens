@@ -16,6 +16,6 @@ public class Secoundlargest {
             }
         System.out.println("largest : "+ largest);
         System.out.println("Sec largest : " + seclarg);
-        }
+        }//
     }
 
