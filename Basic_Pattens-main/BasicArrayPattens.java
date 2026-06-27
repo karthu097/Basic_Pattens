@@ -11,4 +11,4 @@ public class BasicArrayPattens {
     }
 
 }
-/*  assume that */
+/*  as
